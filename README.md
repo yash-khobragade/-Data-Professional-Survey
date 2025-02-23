@@ -13,9 +13,12 @@ This Power BI dashboard provides insights into the survey responses of data prof
 - **Gauge Chart: Happiness with Work-Life Balance** – Measures respondents’ satisfaction with work-life balance.
 - **Gauge Chart: Happiness with Salary** – Shows satisfaction levels regarding compensation.
 
+## 📊 Dashboard Preview
+![Dashboard Overview](https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Dashboard.png)
+
 ## 📂 Files Included
-- `Data_Professional_Survey_Breakdown.pbix` – Power BI report file.
-- `dataset.csv` (if shareable) – The raw dataset used for analysis.
+- `https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix` – Power BI report file.
+- `https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Power%20BI%20-%20Project.xlsx` – The raw dataset used for analysis.
 
 ## 🛠 Tools & Technologies Used
 - **Power BI** – Data visualization and dashboard creation.
@@ -30,7 +33,7 @@ This Power BI dashboard provides insights into the survey responses of data prof
 
 ## 🤝 Connect with Me
 
-🔗 LinkedIn: [Your LinkedIn Profile]  
+🔗 LinkedIn:https://www.linkedin.com/in/yashkhobragade/
 
 ---
 
