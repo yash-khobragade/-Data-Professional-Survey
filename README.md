@@ -17,8 +17,8 @@ This Power BI dashboard provides insights into the survey responses of data prof
 ![Dashboard Overview](https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Dashboard.png)
 
 ## 📂 Files Included
-- `https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix` – Power BI report file.
-- `https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Power%20BI%20-%20Project.xlsx` – The raw dataset used for analysis.
+- https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix – Power BI report file.
+- https://github.com/yash-khobragade/-Data-Professional-Survey/blob/main/Power%20BI%20-%20Project.xlsx – The raw dataset used for analysis.
 
 ## 🛠 Tools & Technologies Used
 - **Power BI** – Data visualization and dashboard creation.
